@@ -1,0 +1,8 @@
+Update log 1
+Added Ben
+Added Player Movement
+Added First Alien Transformation(Four arms)
+Added Ground
+Added Enemy
+Added Enemy Movement
+Added Guns For Ben (Press E)
